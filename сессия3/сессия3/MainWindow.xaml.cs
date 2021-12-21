@@ -32,6 +32,22 @@ namespace сессия3
             this.Hide();
             w1.Show();
         }
-        
+
+        private void bt_tel_click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void bt_tarif_click(object sender, RoutedEventArgs e)
+        {
+            Window2 w2 = new Window2();
+            this.Hide();
+            w2.Show();
+        }
+
+        private void bt_razg_click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

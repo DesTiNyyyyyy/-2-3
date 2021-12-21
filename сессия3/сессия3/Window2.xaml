@@ -1,0 +1,17 @@
+﻿<Window x:Class="сессия3.Window2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:сессия3"
+        mc:Ignorable="d"
+        Title="Window2" Height="290" Width="400">
+    <Grid>
+        <Label Content="Номер города" HorizontalAlignment="Left" Margin="40,60,0,0" VerticalAlignment="Top"/>
+        <Label Content="Название города" HorizontalAlignment="Left" Margin="40,120,0,0" VerticalAlignment="Top" Height="37"/>
+        <TextBox HorizontalAlignment="Left" Margin="161,60,0,0" Text="введите номер города" TextWrapping="Wrap" VerticalAlignment="Top" Width="146" Height="26"/>
+        <TextBox HorizontalAlignment="Left" Margin="161,120,0,0" Text="введите название города" TextWrapping="Wrap" VerticalAlignment="Top" Width="146" Height="37"/>
+        <Button Name="bt_w3" Click="bt_w3_click" Content="На главную страницу" HorizontalAlignment="Left" Margin="45,204,0,0" VerticalAlignment="Top"/>
+        <Button Name="bt_w3_2" Click="bt_w3_2_click" Content="добавить" HorizontalAlignment="Left" Margin="252,204,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.446,-0.002"/>
+    </Grid>
+</Window>

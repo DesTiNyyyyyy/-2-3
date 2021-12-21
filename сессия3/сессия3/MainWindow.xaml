@@ -12,7 +12,7 @@
         </Grid.RowDefinitions>
         <Button Name="bt_ab" Click="bt_ab_click" Content="Абоненты" Height="40" Width="150" HorizontalAlignment="Center" Margin="0,90,0,0" VerticalAlignment="Top"/>
         <Button Name="bt_tel" Click="bt_tel_click" Content="Телефоны абонентов" Height="40" Width="150" HorizontalAlignment="Center" Margin="0,180,0,0" VerticalAlignment="Top"/>
-        <Button Name="bt_tarif" Click="bt_tarif_click" Content="Тарифы" Height="40" Width="150" HorizontalAlignment="Center" Margin="0,270,0,0" VerticalAlignment="Top"/>
+        <Button Name="bt_tarif" Click="bt_tarif_click" Content="Города" Height="40" Width="150" HorizontalAlignment="Center" Margin="0,270,0,0" VerticalAlignment="Top"/>
         <Button Name="bt_razg" Click="bt_razg_click" Content="Разговоры" Height="40" Width="150" HorizontalAlignment="Center" Margin="0,360,0,0" VerticalAlignment="Top"/>
     </Grid>
 </Window>
