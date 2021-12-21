@@ -1,0 +1,6 @@
+W:\Новая папка\сессия3\сессия3\obj\Debug\netcoreapp3.1\сессия3.csprojAssemblyReference.cache
+W:\Новая папка\сессия3\сессия3\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+W:\Новая папка\сессия3\сессия3\obj\Debug\netcoreapp3.1\Window1.g.cs
+W:\Новая папка\сессия3\сессия3\obj\Debug\netcoreapp3.1\App.g.cs
+W:\Новая папка\сессия3\сессия3\obj\Debug\netcoreapp3.1\сессия3_MarkupCompile.cache
+W:\Новая папка\сессия3\сессия3\obj\Debug\netcoreapp3.1\сессия3_MarkupCompile.lref

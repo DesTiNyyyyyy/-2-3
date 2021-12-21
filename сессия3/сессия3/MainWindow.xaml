@@ -1,0 +1,18 @@
+﻿<Window x:Class="сессия3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:сессия3"
+        mc:Ignorable="d"
+        Title="Главная форма" Height="490" Width="350">
+    <Grid>
+        <Grid.RowDefinitions>
+            
+        </Grid.RowDefinitions>
+        <Button Name="bt_ab" Click="bt_ab_click" Content="Абоненты" Height="40" Width="150" HorizontalAlignment="Center" Margin="0,90,0,0" VerticalAlignment="Top"/>
+        <Button Name="bt_tel" Click="bt_tel_click" Content="Телефоны абонентов" Height="40" Width="150" HorizontalAlignment="Center" Margin="0,180,0,0" VerticalAlignment="Top"/>
+        <Button Name="bt_tarif" Click="bt_tarif_click" Content="Тарифы" Height="40" Width="150" HorizontalAlignment="Center" Margin="0,270,0,0" VerticalAlignment="Top"/>
+        <Button Name="bt_razg" Click="bt_razg_click" Content="Разговоры" Height="40" Width="150" HorizontalAlignment="Center" Margin="0,360,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>
